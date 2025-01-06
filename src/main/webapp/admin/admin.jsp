@@ -81,7 +81,7 @@
         <nav>
             <ul class="nav">
                 <li class="nav-item"><a href="../index.jsp" class="nav-link">Trang Chủ</a></li>
-                <li class="nav-item"><a href="ADDMIN/logout.jsp" class="nav-link">Đăng Xuất</a></li>
+                <li class="nav-item"><a href="logout.jsp" class="nav-link">Đăng Xuất</a></li>
             </ul>
         </nav>
     </div>
@@ -95,7 +95,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Quản lý người dùng</h5>
                         <p class="card-text">Thêm, sửa, xóa người dùng.</p>
-                        <a href="ADDMIN/manage-users.jsp" class="btn btn-light">Quản lý</a>
+                        <a href="manage-users.jsp" class="btn btn-light">Quản lý</a>
                     </div>
                 </div>
             </div>
@@ -104,7 +104,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Quản lý sản phẩm</h5>
                         <p class="card-text">Thêm, sửa, xóa sản phẩm.</p>
-                        <a href="ADDMIN/manage-products.jsp" class="btn btn-light">Quản lý</a>
+                        <a href="productsmanage.jsp" class="btn btn-light">Quản lý</a>
                     </div>
                 </div>
             </div>
@@ -113,7 +113,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Xem báo cáo</h5>
                         <p class="card-text">Xem doanh thu, đơn hàng.</p>
-                        <a href="ADDMIN/reports.jsp" class="btn btn-light">Xem</a>
+                        <a href="reports.jsp" class="btn btn-light">Xem</a>
                     </div>
                 </div>
             </div>
