@@ -86,18 +86,18 @@
 <body>
 <header class="py-3">
     <div class="container d-flex justify-content-between align-items-center">
-        <a href="index.jsp" class="logo text-decoration-none text-white">NamHùng</a>
+        <a href="../index.jsp" class="logo text-decoration-none text-white">NamHùng</a>
         <nav>
             <ul class="nav">
-                <li class="nav-item"><a href="login.jsp" class="nav-link">Đăng Nhập</a></li>
-                <li class="nav-item"><a href="register.jsp" class="nav-link">Đăng Ký</a></li>
-                <li class="nav-item"><a href="Carts/shoppingcart.jsp" class="nav-link">Giỏ Hàng</a></li>
+                <li class="nav-item"><a href="../login.jsp" class="nav-link">Đăng Nhập</a></li>
+                <li class="nav-item"><a href="../register.jsp" class="nav-link">Đăng Ký</a></li>
+                <li class="nav-item"><a href="../Carts/shoppingcart.jsp" class="nav-link">Giỏ Hàng</a></li>
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Danh Mục</a>
                     <ul class="dropdown-menu">
                         <li><a href="iphone.jsp" class="dropdown-item">Iphone</a></li>
-                        <li><a href="mac.jsp" class="dropdown-item">Mac</a></li>
-                        <li><a href="phukien.jsp" class="dropdown-item">Phụ kiện</a></li>
+                        <li><a href="../Macs/mac.jsp" class="dropdown-item">Mac</a></li>
+                        <li><a href="../phukiens/phukien.jsp" class="dropdown-item">Phụ kiện</a></li>
                     </ul>
                 </li>
             </ul>
@@ -112,7 +112,7 @@
             <div class="col-md-3">
                 <div class="card border-0 shadow">
                     <a href="iphone16prm.jsp">
-                        <img src="Img/Iphone16prm.png" class="card-img-top" alt="iPhone 16 Pro Max">
+                        <img src="../Img/Iphone16prm.png" class="card-img-top" alt="iPhone 16 Pro Max">
                     </a>
                     <div class="card-body text-center">
                         <h5 class="card-title">
@@ -126,7 +126,7 @@
             <div class="col-md-3">
                 <div class="card border-0 shadow">
                     <a href="iphone16.jsp">
-                        <img src="Img/Iphone16.png" class="card-img-top" alt="iPhone 16">
+                        <img src="../Img/Iphone16.png" class="card-img-top" alt="iPhone 16">
                     </a>
                     <div class="card-body text-center">
                         <h5 class="card-title">
@@ -140,7 +140,7 @@
             <div class="col-md-3">
                 <div class="card border-0 shadow">
                     <a href="iphone13.jsp">
-                        <img src="Img/Iphone13.png" class="card-img-top" alt="iPhone 13">
+                        <img src="../Img/Iphone13.png" class="card-img-top" alt="iPhone 13">
                     </a>
                     <div class="card-body text-center">
                         <h5 class="card-title">
@@ -154,7 +154,7 @@
             <div class="col-md-3">
                 <div class="card border-0 shadow">
                     <a href="iphone16pro.jsp">
-                        <img src="Img/Iphone16pro.png" class="card-img-top" alt="iPhone 16 Pro">
+                        <img src="../Img/Iphone16pro.png" class="card-img-top" alt="iPhone 16 Pro">
                     </a>
                     <div class="card-body text-center">
                         <h5 class="card-title">

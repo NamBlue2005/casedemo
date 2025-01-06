@@ -82,16 +82,16 @@
 
 <header class="py-3">
     <div class="container d-flex justify-content-between align-items-center">
-        <a href="index.jsp" class="logo text-decoration-none text-white">NamHùng</a>
+        <a href="../index.jsp" class="logo text-decoration-none text-white">NamHùng</a>
         <nav>
             <ul class="nav">
-                <li class="nav-item"><a href="Carts/shoppingcart.jsp" class="nav-link text-white">Giỏ Hàng</a></li>
+                <li class="nav-item"><a href="../Carts/shoppingcart.jsp" class="nav-link text-white">Giỏ Hàng</a></li>
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle text-white" data-bs-toggle="dropdown">Danh Mục</a>
                     <ul class="dropdown-menu">
                         <li><a href="iphone.jsp" class="dropdown-item">Iphone</a></li>
-                        <li><a href="mac.jsp" class="dropdown-item">Mac</a></li>
-                        <li><a href="phukien.jsp" class="dropdown-item">Phụ kiện</a></li>
+                        <li><a href="../Macs/mac.jsp" class="dropdown-item">Mac</a></li>
+                        <li><a href="../phukiens/phukien.jsp" class="dropdown-item">Phụ kiện</a></li>
                     </ul>
                 </li>
             </ul>
@@ -103,7 +103,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img src="Img/Iphone16.png" class="product-image" alt="iPhone 16">
+                <img src="../Img/Iphone16.png" class="product-image" alt="iPhone 16">
             </div>
 
             <div class="col-md-6">

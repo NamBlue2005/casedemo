@@ -85,17 +85,17 @@
 <body>
 <header class="py-3">
     <div class="container d-flex justify-content-between align-items-center">
-        <a href="index.jsp" class="logo text-decoration-none text-white">NamHùng</a>
+        <a href="../index.jsp" class="logo text-decoration-none text-white">NamHùng</a>
         <nav>
             <ul class="nav">
-                <li class="nav-item"><a href="login.jsp" class="nav-link">Đăng Nhập</a></li>
-                <li class="nav-item"><a href="register.jsp" class="nav-link">Đăng Ký</a></li>
-                <li class="nav-item"><a href="Carts/shoppingcart.jsp" class="nav-link">Giỏ Hàng</a></li>
+                <li class="nav-item"><a href="../login.jsp" class="nav-link">Đăng Nhập</a></li>
+                <li class="nav-item"><a href="../register.jsp" class="nav-link">Đăng Ký</a></li>
+                <li class="nav-item"><a href="../Carts/shoppingcart.jsp" class="nav-link">Giỏ Hàng</a></li>
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Danh Mục</a>
                     <ul class="dropdown-menu">
-                        <li><a href="iphone.jsp" class="dropdown-item">Iphone</a></li>
-                        <li><a href="mac.jsp" class="dropdown-item">Mac</a></li>
+                        <li><a href="../iphones/iphone.jsp" class="dropdown-item">Iphone</a></li>
+                        <li><a href="../Macs/mac.jsp" class="dropdown-item">Mac</a></li>
                         <li><a href="phukien.jsp" class="dropdown-item">Phụ kiện</a></li>
                     </ul>
                 </li>
@@ -111,7 +111,7 @@
             <div class="col-md-3">
                 <div class="card border-0 shadow">
                     <a href="airpods-max.jsp">
-                        <img src="Img/Airpods-Max.jpeg" class="card-img-top" alt="AirPods Max">
+                        <img src="../Img/Airpods-Max.jpeg" class="card-img-top" alt="AirPods Max">
                     </a>
                     <div class="card-body text-center">
                         <h5 class="card-title">
@@ -125,7 +125,7 @@
             <div class="col-md-3">
                 <div class="card border-0 shadow">
                     <a href="cap-sac-usb-c.jsp">
-                        <img src="Img/cap-usb-c.jpeg" class="card-img-top" alt="Cáp sạc Apple USB-C 1M">
+                        <img src="../Img/cap-usb-c.jpeg" class="card-img-top" alt="Cáp sạc Apple USB-C 1M">
                     </a>
                     <div class="card-body text-center">
                         <h5 class="card-title">
@@ -139,7 +139,7 @@
             <div class="col-md-3">
                 <div class="card border-0 shadow">
                     <a href="apple-pencil2.jsp">
-                        <img src="Img/Pencil-2.png" class="card-img-top" alt="Apple Pencil 2">
+                        <img src="../Img/Pencil-2.png" class="card-img-top" alt="Apple Pencil 2">
                     </a>
                     <div class="card-body text-center">
                         <h5 class="card-title">
@@ -153,7 +153,7 @@
             <div class="col-md-3">
                 <div class="card border-0 shadow">
                     <a href="magicMouse2.jsp">
-                        <img src="Img/MagicMouse2.jpeg" class="card-img-top" alt="Magic Mouse 2">
+                        <img src="../Img/MagicMouse2.jpeg" class="card-img-top" alt="Magic Mouse 2">
                     </a>
                     <div class="card-body text-center">
                         <h5 class="card-title">

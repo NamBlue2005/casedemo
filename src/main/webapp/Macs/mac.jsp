@@ -85,18 +85,18 @@
 <body>
 <header class="py-3">
   <div class="container d-flex justify-content-between align-items-center">
-    <a href="index.jsp" class="logo text-decoration-none text-white">NamHùng</a>
+    <a href="../index.jsp" class="logo text-decoration-none text-white">NamHùng</a>
     <nav>
       <ul class="nav">
-        <li class="nav-item"><a href="login.jsp" class="nav-link">Đăng Nhập</a></li>
-        <li class="nav-item"><a href="register.jsp" class="nav-link">Đăng Ký</a></li>
-        <li class="nav-item"><a href="Carts/shoppingcart.jsp" class="nav-link">Giỏ Hàng</a></li>
+        <li class="nav-item"><a href="../login.jsp" class="nav-link">Đăng Nhập</a></li>
+        <li class="nav-item"><a href="../register.jsp" class="nav-link">Đăng Ký</a></li>
+        <li class="nav-item"><a href="../Carts/shoppingcart.jsp" class="nav-link">Giỏ Hàng</a></li>
         <li class="nav-item dropdown">
           <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Danh Mục</a>
           <ul class="dropdown-menu">
-            <li><a href="iphone.jsp" class="dropdown-item">Iphone</a></li>
+            <li><a href="../iphones/iphone.jsp" class="dropdown-item">Iphone</a></li>
             <li><a href="mac.jsp" class="dropdown-item">Mac</a></li>
-            <li><a href="phukien.jsp" class="dropdown-item">Phụ kiện</a></li>
+            <li><a href="../phukiens/phukien.jsp" class="dropdown-item">Phụ kiện</a></li>
           </ul>
         </li>
       </ul>
@@ -112,7 +112,7 @@
       <div class="col-md-3">
         <div class="card border-0 shadow">
           <a href="macbook-Air-m1.jsp">
-            <img src="Img/Macbook-airm1.jpeg" class="card-img-top" alt="MacBook Air M1(2020)">
+            <img src="../Img/Macbook-airm1.jpeg" class="card-img-top" alt="MacBook Air M1(2020)">
           </a>
           <div class="card-body text-center">
             <h5 class="card-title">
@@ -127,7 +127,7 @@
       <div class="col-md-3">
         <div class="card border-0 shadow">
           <a href="imac-m1.jsp">
-            <img src="Img/iMac-m1.webp" class="card-img-top" alt="iMac M1">
+            <img src="../Img/iMac-m1.webp" class="card-img-top" alt="iMac M1">
           </a>
           <div class="card-body text-center">
             <h5 class="card-title">
@@ -141,7 +141,7 @@
       <div class="col-md-3">
         <div class="card border-0 shadow">
           <a href="macbook-pro-14inch-m4.jsp">
-            <img src="Img/MacBook-Pro-14inch-M4.jpeg" class="card-img-top" alt="MacBook Pro 14 inch M4">
+            <img src="../Img/MacBook-Pro-14inch-M4.jpeg" class="card-img-top" alt="MacBook Pro 14 inch M4">
           </a>
           <div class="card-body text-center">
             <h5 class="card-title">
@@ -155,7 +155,7 @@
       <div class="col-md-3">
         <div class="card border-0 shadow">
           <a href="macmini-m4.jsp">
-            <img src="Img/Mac-mini-M4.jpeg" class="card-img-top" alt="Mac mini M4">
+            <img src="../Img/Mac-mini-M4.jpeg" class="card-img-top" alt="Mac mini M4">
           </a>
           <div class="card-body text-center">
             <h5 class="card-title">

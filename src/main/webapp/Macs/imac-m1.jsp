@@ -76,12 +76,12 @@
 
 <header class="py-3">
     <div class="container d-flex justify-content-between align-items-center">
-        <a href="index.jsp" class="logo text-decoration-none text-white">NamHùng</a>
+        <a href="../index.jsp" class="logo text-decoration-none text-white">NamHùng</a>
         <nav>
             <ul class="nav">
-                <li class="nav-item"><a href="login.jsp" class="nav-link">Đăng Nhập</a></li>
-                <li class="nav-item"><a href="register.jsp" class="nav-link">Đăng Ký</a></li>
-                <li class="nav-item"><a href="Carts/shoppingcart.jsp" class="nav-link">Giỏ Hàng</a></li>
+                <li class="nav-item"><a href="../login.jsp" class="nav-link">Đăng Nhập</a></li>
+                <li class="nav-item"><a href="../register.jsp" class="nav-link">Đăng Ký</a></li>
+                <li class="nav-item"><a href="../Carts/shoppingcart.jsp" class="nav-link">Giỏ Hàng</a></li>
             </ul>
         </nav>
     </div>
@@ -91,7 +91,7 @@
     <h1 class="text-center">iMac M1(2021) 24inch</h1>
     <div class="row">
         <div class="col-md-6">
-            <img src="Img/iMac-m1.webp" alt="iMac M1">
+            <img src="../Img/iMac-m1.webp" alt="iMac M1">
         </div>
         <div class="col-md-6">
             <h3 class="text-danger">$1599</h3>
