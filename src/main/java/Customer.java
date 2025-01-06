@@ -6,7 +6,6 @@ public class Customer {
     private String address;
     private String gender;
 
-    // Getters và Setters
     public int getCustomerID() {
         return customerID;
     }

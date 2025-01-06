@@ -63,7 +63,6 @@
         <a href="home.jsp" class="logo text-decoration-none text-white">NamHùng</a>
         <nav>
             <ul class="nav">
-                <li class="nav-item"><a href="account.jsp" class="nav-link">Tài Khoản</a></li>
                 <li class="nav-item"><a href="Carts/shoppingcart.jsp" class="nav-link">Giỏ Hàng</a></li>
                 <li class="nav-item"><a href="logout.jsp" class="nav-link">Đăng Xuất</a></li>
             </ul>

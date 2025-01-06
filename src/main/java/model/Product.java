@@ -6,7 +6,6 @@ public class Product {
     private double price;
     private String description;
 
-    // Constructor
     public Product(int id, String name, double price, String description) {
         this.id = id;
         this.name = name;
@@ -14,7 +13,6 @@ public class Product {
         this.description = description;
     }
 
-    // Getter và setter cho id
     public int getId() {
         return id;
     }
@@ -23,7 +21,6 @@ public class Product {
         this.id = id;
     }
 
-    // Getter và setter cho name
     public String getName() {
         return name;
     }
@@ -32,7 +29,6 @@ public class Product {
         this.name = name;
     }
 
-    // Getter và setter cho price
     public double getPrice() {
         return price;
     }
@@ -41,7 +37,6 @@ public class Product {
         this.price = price;
     }
 
-    // Getter và setter cho description
     public String getDescription() {
         return description;
     }
